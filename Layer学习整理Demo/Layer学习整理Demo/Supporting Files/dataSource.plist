@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LayerPropertyViewController</key>
+		<string>常用属性</string>
+	</dict>
+	<dict>
+		<key>LayerTransformViewController</key>
+		<string>仿射变换</string>
+	</dict>
+	<dict>
+		<key>Layer3DViewController</key>
+		<string>3D固体设置</string>
+	</dict>
+	<dict>
+		<key>LayerSubclassesViewController</key>
+		<string>子类图层</string>
+	</dict>
+	<dict>
+		<key>LayerAnimationPropertyViewController</key>
+		<string>图层动画</string>
+	</dict>
+	<dict>
+		<key>LayerCATransactionAnimationViewController</key>
+		<string>隐式动画</string>
+	</dict>
+	<dict>
+		<key>LayerKeyPathAnimationViewController</key>
+		<string>属性动画</string>
+	</dict>
+	<dict>
+		<key>LayerGroupAnimationViewController</key>
+		<string>动画组</string>
+	</dict>
+	<dict>
+		<key>LayerTransitionAnimationViewController</key>
+		<string>过渡动画</string>
+	</dict>
+	<dict>
+		<key>LayerCAMediaTimingAnimationViewController</key>
+		<string>CAMediaTiming</string>
+	</dict>
+	<dict>
+		<key>LayerManualAnimationViewController</key>
+		<string>手动动画</string>
+	</dict>
+	<dict>
+		<key>PerformanceCompareViewController</key>
+		<string>性能提升</string>
+	</dict>
+</array>
+</plist>
